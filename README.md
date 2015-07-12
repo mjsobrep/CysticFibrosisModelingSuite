@@ -1,6 +1,14 @@
 # CysticFibrosisModelingSuite
 
+##[Webpage](michaelsobrepera.com/projects/CFmodeling.html)
 
+##Important Notes
+1. This tool uses a weak model, it should not be used for a clinical application.
+2. Feel free to extend this, but let me know if you do so
+3. I made this on top of Matlab using Guide. That was a pain, I would not recomend using Guide for anything...
+
+
+##Q&A
 
 * Q: What are the system requirements for the program?
 * A: For the Matlab code, any computer running Matlab will work. For the executable, Windows 64bit systems are supported, although it may be possible to run the code on other systems.  
