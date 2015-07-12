@@ -32,22 +32,25 @@
 -------------------------
 * Q: What do the numerical options do?
 * A: They act as multipliers to determine the strength of the treatments.
-    1. Antibiotics
-        a. Inhibits bacteria growth: the number entered is the degree to which the bacteria’s growth is inhibited
-            i. For example: if an antibiotic inhibits the bacteria’s growth by 40% then the multiplier is .4
-        b. Kills bacteria: the number entered is the degree to which the rate of death of bacteria is increased
-            i. For example: if an antibiotic increases the rate of bacteria death by 90% then the multiplier is 1.9
-    2. Mucus Clearers: the number entered is the degree to which muculocilliary clearance is increased
-        i. For example: if the mucus clearer increases muculocilliary transport by 40%, then the multiplier is 1.4
-    3. Chest Physical Therapy: the number entered is the degree to which muculocilliary clearance is increased
-        i. For example: if the CPT increases muculocilliary transport by 40%, then the multiplier is 1.4
-    4. Anti-inflammatories
-        a. Inhibits production of pro-inflammatory cytokines: the number entered is the degree to which pro-inflammatory cytokine production is inhibited
-            i. For example: if an anti-inflammatory inhibits the pro-inflammatory cytokine production by 40% then the multiplier is .4
-        b. Promotes breakdown of pro-inflammatory cytokines: the number entered is the degree to which the breakdown of pro-inflammatory cytokines is increased
-            i. For example: if an anti-inflammatory increases the rate of breakdown of pro-inflammatory cytokines by 90% then the multiplier is 1.9
-        c. Promotes production of anti-inflammatory cytokines: the number entered is degree to which the rate of the production of anti-inflammatory cytokines is increased.
-            i. For example: if an anti-inflammatory increases the rate of production of anti-inflammatory cytokines by 40%, then the multiplier is 1.4
+<ol>
+    <li>Antibiotics</li>
+        <ol>
+        <li>Inhibits bacteria growth: the number entered is the degree to which the bacteria’s growth is inhibited</li>
+            <ol><li>For example: if an antibiotic inhibits the bacteria’s growth by 40% then the multiplier is .4</li></ol>
+        <li>Kills bacteria: the number entered is the degree to which the rate of death of bacteria is increased</li>
+            <ol><li>For example: if an antibiotic increases the rate of bacteria death by 90% then the multiplier is 1.9</li></ol>
+    <li>Mucus Clearers: the number entered is the degree to which muculocilliary clearance is increased</li>
+        <ol><li>For example: if the mucus clearer increases muculocilliary transport by 40%, then the multiplier is 1.4</li></ol>
+    <li>Chest Physical Therapy: the number entered is the degree to which muculocilliary clearance is increased</li>
+        <ol><li>For example: if the CPT increases muculocilliary transport by 40%, then the multiplier is 1.4</li></ol>
+    <li>Anti-inflammatories: </li>
+<ol><li>Inhibits production of pro-inflammatory cytokines: the number entered is the degree to which pro-inflammatory cytokine production is inhibited</li>
+        <ol><li>For example: if an anti-inflammatory inhibits the pro-inflammatory cytokine production by 40% then the multiplier is .4</li></ol></ol>
+        <ol><li>Promotes breakdown of pro-inflammatory cytokines: the number entered is the degree to which the breakdown of pro-inflammatory cytokines is increased</li>
+            <ol><li>For example: if an anti-inflammatory increases the rate of breakdown of pro-inflammatory cytokines by 90% then the multiplier is 1.9</li></ol></ol>
+        <ol><li>Promotes production of anti-inflammatory cytokines: the number entered is degree to which the rate of the production of anti-inflammatory cytokines is increased.</li>
+           <ol><li>For example: if an anti-inflammatory increases the rate of production of anti-inflammatory cytokines by 40%, then the multiplier is 1.4</li></ol></ol>
+</ol>
 
 -------------------------
 * Q: The program is crashing on me, what should I do?
