@@ -46,7 +46,7 @@
         <li>Inhibits bacteria growth: the number entered is the degree to which the bacteria’s growth is inhibited</li>
             <ol><li>For example: if an antibiotic inhibits the bacteria’s growth by 40% then the multiplier is .4</li></ol>
         <li>Kills bacteria: the number entered is the degree to which the rate of death of bacteria is increased</li>
-            <ol><li>For example: if an antibiotic increases the rate of bacteria death by 90% then the multiplier is 1.9</li></ol>
+            <ol><li>For example: if an antibiotic increases the rate of bacteria death by 90% then the multiplier is 1.9</li></ol></ol>
     <li>Mucus Clearers: the number entered is the degree to which muculocilliary clearance is increased</li>
         <ol><li>For example: if the mucus clearer increases muculocilliary transport by 40%, then the multiplier is 1.4</li></ol>
     <li>Chest Physical Therapy: the number entered is the degree to which muculocilliary clearance is increased</li>
